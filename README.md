@@ -1,2 +1,2 @@
 # quotesGenerator
-Generate Random Quotes using JavaScript
+Random Quotes Generator using JavaScript
